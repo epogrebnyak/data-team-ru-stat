@@ -7,7 +7,7 @@ EP (15/06/2017):
 - writeup below
 
 Team (15/06/2017):
-- introduce yourself in #1 (breifly your background and what you can expect to learn)
+- introduce yourself in [#1](https://github.com/epogrebnyak/data-team-ru-stat/issues/1) - breifly your background and what you can expect to learn
 - glance at <https://github.com/epogrebnyak/mini-kep> and <https://github.com/epogrebnyak/data-rosstat-kep> 
 - read through <http://drivendata.github.io/cookiecutter-data-science/> 
 
