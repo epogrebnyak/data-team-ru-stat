@@ -1,6 +1,6 @@
 This repo is created to organise some work of extracting and managing Russian economic statistics (macroeconomics, corporate reports, bank report forms). 
 
-My proprietary goal is to revitalise work on several stalled data-mining projects with help from some young talent and more experienced developpers.
+My proprietary goal is to revitalise work on [several stalled data-mining projects](https://github.com/epogrebnyak/data-team-ru-stat/blob/master/README.md#list-of-repos) with help from some young talent and more experienced developpers.
 
 Community goal is to enable learning and sharing of knowledge in ETL/data analysis, best practices in Python programming and project management.
 
