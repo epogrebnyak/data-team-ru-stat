@@ -5,6 +5,7 @@ Plan of work
 
 EP (15/06/2017): 
 - writeup below
+- keep everyone synced/informed
 
 Team (15/06/2017):
 - introduce yourself in [#1](https://github.com/epogrebnyak/data-team-ru-stat/issues/1) - breifly your background and what you can expect to learn
@@ -53,10 +54,13 @@ to understand separation of parts of code and pipeline form raw immutable data
 - compare subprojects (eg source, processed data, tests, docs, invokation, why stalled)
 - model crawler
 
-**Out of scope**
+**More tasks/comments**
+- channel @slack?
 
+**Out of scope**
 Some great ideas that are not immediately in the scope of this task:
 - [eqcell](https://github.com/epogrebnyak/make-xls-eqcell) - generate simple Excel sheets by instruction
 - frontends:
   - [datachart.cc](http://datachart.cc) - sample github.io/Jekyll page, 
   - [ckan](https://ckan.org/) - larger server to dessiminate open data
+- <https://civic.io/2015/04/01/i-hate-open-data-portals/> + yandex open data talk (TODO: link)
