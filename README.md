@@ -16,7 +16,7 @@ To cover here
 
 **Intro**
 - case for machine-readable data in economic analysis eg. [FRED](https://fred.stlouisfed.org/series/CPIAUCSL)
-- some previous background and lessons learned
+- some previous background and lessons learned + experience at Upwork
 - user case and design considerations  
 
 **List of repos**:
@@ -30,20 +30,28 @@ Stalled:
 to understand separation of parts of code and pipeline form raw immutable data
 
 **Team**
-- who is who and expectations from project
+- who is who and expectations from project, see [#1](https://github.com/epogrebnyak/data-team-ru-stat/issues/1) 
+- maybe need to bring in some more experienced people
 
 **Skillbase**
 - very modular checks to make sure everyone know common things needed for collaborative work 
 - suggestiong for learning
+- resumes, github profiles and self-presentation 
+
+**Language**
+- code comments are English-only
+- Issues and documentation may be in Russian (sometimes you have to express yourself), 
+  but keep in mind English-only team members
+- I think it is best to provide a small summary (sentence or two of just a topic) if you write something in Russian
 
 **Terms of work**
 - open to people interested in learning and sharing better practice in ETL/data analysis and Python programming
 - some specific tasks are paid via Upwork
 
 **Task ideas**
-- unit testing
-- compare subprojects
-
+- unit testing <https://github.com/epogrebnyak/question-kep-unittest>
+- compare subprojects (eg source, processed data, tests, docs, invokation, why stalled)
+- model crawler
 
 **Out of scope**
 
