@@ -46,6 +46,7 @@ to understand separation of parts of code and pipeline form raw immutable data
 
 
 **Out of scope**
+
 Some great ideas that are not immediately in the scope of this task:
 - [eqcell](https://github.com/epogrebnyak/make-xls-eqcell) - generate simple Excel sheets by instruction
 - frontends pages/datamarts: [datachart.cc](http://datachart.cc) - sample github.io/Jekyll page,  [ckan](eg https://ckan.org/) - larger server to dessiminate open data
