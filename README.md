@@ -31,11 +31,11 @@ Stalled:
 
 Library 
 -------
-- <http://drivendata.github.io/cookiecutter-data-science/> - some focus towards machine learning/larger data, but very useful 
-to understand separation of parts of code and pipeline form raw immutable data to reports
+- [Data Science Cookiecutter](http://drivendata.github.io/cookiecutter-data-science/), *a logical, reasonably standardized, but flexible project structure for doing and sharing data science work* - a manual with some focus towards machine learning/larger data, but very useful to understand separation of parts of code and pipeline form raw immutable data to reports. Suggested reference: **DSCC**.
 
 Rules
 -----
+
 **Terms of work**
 - open to people interested in learning and sharing better practice in ETL/data analysis and Python programming
 - some specific tasks are paid via Upwork
@@ -50,28 +50,27 @@ Rules
 TODO (EP)
 =========
 
-**Intro**
+## Intro
 - case for machine-readable data in economic analysis eg. [FRED](https://fred.stlouisfed.org/series/CPIAUCSL)
 - some previous background and lessons learned + experience at Upwork
 - project scope and adjacent areas for ETL/data analysis
 - getting to know people - career paths and self-presentation 
 
-**Team**
-- who is who and expectations from project, see [#1](https://github.com/epogrebnyak/data-team-ru-stat/issues/1) 
-- maybe need to bring in some more experienced people
-
-**Skillbase**
+## Skillbase
 - very modular checks to make sure everyone know common things needed for collaborative work 
 - suggestiong for learning
 - resumes, github profiles and self-presentation 
 
-**Task ideas**
+## Task ideas
 - unit testing <https://github.com/epogrebnyak/question-kep-unittest>
 - compare subprojects (eg source, processed data, tests, docs, invokation, why stalled)
 - model crawler
 
+## Organisation 
+- who is who and expectations from project, see [#1](https://github.com/epogrebnyak/data-team-ru-stat/issues/1) 
+- maybe need to bring in some more experienced people
 
-**Out of scope**
+## Out of scope
 Some great ideas that are not immediately in the scope of this task:
 - [eqcell](https://github.com/epogrebnyak/make-xls-eqcell) - generate simple Excel sheets by instruction
 - frontends:
