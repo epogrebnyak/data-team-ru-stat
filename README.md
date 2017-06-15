@@ -20,7 +20,8 @@ To cover here
 - some previous background and lessons learned + experience at Upwork
 - user case and design considerations  
 
-**List of repos**:
+**List of repos**
+
 Active developement:
 - <https://github.com/epogrebnyak/mini-kep> that supercedes <https://github.com/epogrebnyak/data-rosstat-kep>
 
