@@ -14,9 +14,14 @@ How to join
 - glance at <https://github.com/epogrebnyak/mini-kep> and <https://github.com/epogrebnyak/data-rosstat-kep> 
 - read through [Data Science Cookiecutter](http://drivendata.github.io/cookiecutter-data-science/)
 
+Current activity
+-----------------
+- Comments are open for [Introduction, part 1](https://github.com/epogrebnyak/data-team-ru-stat/issues/5)
+- Some discussion of [suggested tools](https://github.com/epogrebnyak/data-team-ru-stat/issues/3) 
+
 What happens next
 -----------------
-- **Intro** from TODO will be published in Issues for discussion 
+- Other parts of **Intro** from to be published in Issues for discussion 
 
 Resources
 =========
