@@ -21,7 +21,7 @@ Current activity
 
 What happens next
 -----------------
-- Other parts of **Intro** from to be published in Issues for discussion 
+- Following parts of [Intro](https://github.com/epogrebnyak/data-team-ru-stat/blob/master/README.md#intro) to be published in Issues for discussion 
 
 Resources
 =========
