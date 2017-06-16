@@ -1,7 +1,5 @@
 This repo is created to organise some work of extracting and managing Russian economic statistics (macroeconomics, corporate reports, bank report forms). 
 
-My proprietary goal is to revitalise work on [several stalled data-mining projects](https://github.com/epogrebnyak/data-team-ru-stat/blob/master/README.md#list-of-repos) with help from some young talent and more experienced developpers.
-
 Community goal is to enable learning and sharing of knowledge in ETL/data analysis, best practices in Python programming and project management.
 
 Participation 
@@ -23,6 +21,13 @@ What happens next
 -----------------
 - Following parts of [Intro](https://github.com/epogrebnyak/data-team-ru-stat/blob/master/README.md#intro) to be published in Issues for discussion 
 
+Specification
+=============
+
+Usercase for the project, based on:
+- <https://github.com/epogrebnyak/data-team-ru-stat/issues/5#issuecomment-308968183>
+- <https://github.com/epogrebnyak/mini-kep#Требования-к-программе>
+
 Resources
 =========
 
@@ -36,7 +41,9 @@ Stalled:
 
 Library 
 -------
-- [Data Science Cookiecutter](http://drivendata.github.io/cookiecutter-data-science/), *a logical, reasonably standardized, but flexible project structure for doing and sharing data science work* - a manual with some focus towards machine learning/larger data, but very useful to understand separation of parts of code and pipeline form raw immutable data to reports. Suggested reference: **DSCC**.
+- [Data Science Cookiecutter, DSCC](http://drivendata.github.io/cookiecutter-data-science/), *a logical, reasonably standardized, but flexible project structure for doing and sharing data science work* - a manual with some focus towards machine learning/larger data, but very useful to understand separation of parts of code and pipeline form raw immutable data to reports.
+
+- [FRED](https://fred.stlouisfed.org/series/CPIAUCSL) - reference implementation of economic database with clean and easy API. A sort of indusry standard to dessiminate economic data.  
 
 Rules
 -----
@@ -56,7 +63,7 @@ TODO (EP)
 =========
 
 ## Intro
-- case for machine-readable data in economic analysis eg. [FRED](https://fred.stlouisfed.org/series/CPIAUCSL)
+- [case for machine-readable data in economic analysis](https://github.com/epogrebnyak/data-team-ru-stat/issues/5) 
 - some previous background and lessons learned + experience at Upwork
 - project scope and adjacent areas for ETL/data analysis
 - getting to know people - career paths and self-presentation 
