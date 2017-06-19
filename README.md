@@ -10,12 +10,13 @@ After you join
 
 Current activity
 -----------------
-- getting ready for [requirements and design live session](https://github.com/epogrebnyak/data-team-ru-stat/issues/6)- 
+- a roadmap draft [for minimal working pipeline and its extensions](https://github.com/epogrebnyak/data-team-ru-stat/issues/8)
 
 Previous activity
 -----------------
-- Comments are open for [Introduction, part 1](https://github.com/epogrebnyak/data-team-ru-stat/issues/5)
-- Some discussion of [suggested tools](https://github.com/epogrebnyak/data-team-ru-stat/issues/3) 
+- getting ready for [requirements and design live session](https://github.com/epogrebnyak/data-team-ru-stat/issues/6)
+- comments are open for [Introduction, part 1](https://github.com/epogrebnyak/data-team-ru-stat/issues/5)
+- some discussion of [suggested tools](https://github.com/epogrebnyak/data-team-ru-stat/issues/3) 
 
 Library 
 -------
@@ -32,35 +33,19 @@ Rules
 
 **Language**
 - for code comments and issue headers are English-only
-- issues text, discussion and documentation may be in Russian 
-- there are English-only speakers on the team, please provide a small summary (sentence or two) 
-   if you write something in Russian
-
-
-TODO (EP)
-=========
-
-## Intro
-- [case for machine-readable data in economic analysis](https://github.com/epogrebnyak/data-team-ru-stat/issues/5) 
-- some previous background and lessons learned + experience at Upwork
-- getting to know people - career paths and self-presentation 
-
-## Skillbase
-- very modular checks to make sure everyone know common things needed for collaborative work 
-- suggestiong for learning
-- resumes, github profiles and self-presentation 
+- issues text, discussion and parts of documentation may be in Russian 
+- please provide a small summary (sentence or two) if you write something in Russian
 
 ## Task ideas
 - unit testing <https://github.com/epogrebnyak/question-kep-unittest>
 - compare subprojects (eg source, processed data, tests, docs, invokation, why stalled)
 - model crawler
 
-
 Out of scope
 ============
 
-Some great ideas that are not immediately in the scope of this task:
-- [eqcell](https://github.com/epogrebnyak/make-xls-eqcell) - generate simple Excel sheets by instruction
+Some great ideas that are not immediately in the scope of this project:
+- [eqcell](https://github.com/epogrebnyak/make-xls-eqcell) - generate simple Excel sheets by text instruction
 - frontends:
   - [datachart.cc](http://datachart.cc) - sample github.io/Jekyll page, 
   - [ckan](https://ckan.org/) - larger server to dessiminate open data
