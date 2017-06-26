@@ -4,10 +4,11 @@ Community goal is to enable learning and sharing of knowledge in ETL/data analys
 
 Current activity (TODO)
 -----------------------
-- sample parsers (@EP, ...)
+- [sample parsers](https://github.com/epogrebnyak/data-team-ru-stat/issues/10) (@EP, ...)
+- database specification (@Nikita, ...), also at [issue 10](https://github.com/epogrebnyak/data-team-ru-stat/issues/10)
 - end user api requirements (@EP, ...) 
 - frontpage requirements (@EP, ...)
-- database specification (@Nikita, ...)
+
 
 Outstanding (FIXME)
 ---------------------------
@@ -17,7 +18,7 @@ Outstanding (FIXME)
 
 Previous activity (DONE)
 -------------------------
-- a roadmap draft [for minimal working pipeline and its extensions](https://github.com/epogrebnyak/data-team-ru-stat/issues/8)
+- a draft [for minimal working pipeline and its extensions](https://github.com/epogrebnyak/data-team-ru-stat/issues/8)
 - getting ready for [requirements and design live session](https://github.com/epogrebnyak/data-team-ru-stat/issues/6)
 - comments are open for [Introduction, part 1](https://github.com/epogrebnyak/data-team-ru-stat/issues/5)
 - some discussion of [suggested tools](https://github.com/epogrebnyak/data-team-ru-stat/issues/3) 
@@ -43,14 +44,3 @@ Rules
 - introduce yourself in [#1](https://github.com/epogrebnyak/data-team-ru-stat/issues/1) - breifly tell about your background and what you expect to learn
 - join [openstat-team](https://join.slack.com/openstat-team/shared_invite/MTk4MTUzODM3NTM4LTE0OTc1MTczODctMThhNTE3Yzc1NA) on Slack
 - read through [Data Science Cookiecutter](http://drivendata.github.io/cookiecutter-data-science/) and take a look at [FRED](https://fred.stlouisfed.org/)
-
-Out of scope (NOT TODO)
------------------------
-
-Some great ideas that are not immediately in the scope of this project:
-- [eqcell](https://github.com/epogrebnyak/make-xls-eqcell) - generate simple Excel sheets by text instruction
-- frontends:
-  - [datachart.cc](http://datachart.cc) - sample github.io/Jekyll page, 
-  - [ckan](https://ckan.org/) - larger server to dessiminate open data
-- <https://civic.io/2015/04/01/i-hate-open-data-portals/> + yandex open data talk (TODO: link)
-- unit testing <https://github.com/epogrebnyak/question-kep-unittest>
